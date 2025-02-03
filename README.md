@@ -17,6 +17,11 @@ I love building **engaging digital experiences** that blend creativity with func
 🔗 **LinkedIn:** [Valeria Ionascu](https://www.linkedin.com/in/valeriaionascu/)  
 📧 **Email:** ionascu.valeria98@gmail.com  
 
+
+## 📊 GitHub Stats ⬢  
+
+![Valeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HvadisVal&show_icons=true&theme=tokyonight&hide_border=true)
+
 ---
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
